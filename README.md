@@ -17,7 +17,7 @@
 
 
 
-### [桌面端安装包点击下载](https://iloveofd.cn/)
+### [桌面端安装包点击下载](https://github.com/FanQinFred/pdfocr-desktop/releases/tag/0.0.1)
 
 
 虽然是使用Electron多平台支持编写的此项目，但是目前仅支持Windows平台。同时由于集成OCR多个环境和32位操作系统依赖，安装包目前较大。
