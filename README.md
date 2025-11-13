@@ -3,21 +3,21 @@
 [English Document](/README.en.md)
 ***
 # OCRmyPDF桌面端
-鉴于很多使用者不会配置环境，我们在OCRmyPDF的基础上，集成了所需环境，并使用Electron开发了桌面端。 [在线体验地址](https://tool.caj2pdf.cn/pdf-ocr)
+鉴于很多使用者不会配置环境，我们在OCRmyPDF的基础上，集成了所需环境，并使用Electron开发了桌面端。 [在线体验地址](https://iloveofd.cn/pdf-ocr)
 
 <img src="https://raw.githubusercontent.com/FanQinFred/OCRmyPDF-Desktop/main/Doc/images/example.gif" style="border-radius:5px;border:5px solid #ddd;" width="100%">
 
 ***
 
 ## 在线体验地址
- [在线体验地址](https://tool.caj2pdf.cn/pdf-ocr)
+ [在线体验地址](https://iloveofd.cn/pdf-ocr)
 
  
 ## 安装
 
 
 
-### [桌面端安装包点击下载](https://fanfan-pdf-ocr.caj2pdf.cn/)
+### [桌面端安装包点击下载](https://iloveofd.cn/)
 
 
 虽然是使用Electron多平台支持编写的此项目，但是目前仅支持Windows平台。同时由于集成OCR多个环境和32位操作系统依赖，安装包目前较大。
